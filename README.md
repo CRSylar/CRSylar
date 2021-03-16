@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Cristiano Romaldetti AKA CRSylar
+### Hi there 👋 I'm Cristiano Romaldetti
 
 <!--
 **CRSylar/CRSylar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
