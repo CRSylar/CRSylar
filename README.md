@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 🎓 GitHub Stats :
 
-![Cromalde's 42 stats](https://badge42.herokuapp.com/api/stats/cromalde)
+![Cromalde 42 stats](https://badge42.herokuapp.com/api/stats/cromalde)
 
 ![Cromalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRSylar&show_icons=true&theme=tokyonight)
 
