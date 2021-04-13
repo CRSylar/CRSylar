@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 ![Cromalde's GitHub stats](https://github-readme-stats.vercel.app/api?username=CRSylar&show_icons=true&theme=tokyonight)
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRSylar&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CRSylar&layout=compact&show_icons=true&theme=tokyonight)
