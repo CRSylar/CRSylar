@@ -14,6 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working @Scuter as a full stack Dev, we're going to change the urban mobility!
+
+- 🌱 I’m currently learning the new NextJs 13
+
+- 📫 How to reach me: cristianoromaldetti@gmail.com
+
 🎓 GitHub Stats :
 
 [![cromalde's 42 stats](https://badge42.vercel.app/api/v2/cl1z1axw3001109mox1m22pjp/stats?cursusId=21&coalitionId=125)](https://github.com/JaeSeoKim/badge42)
