@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working @Scuter as a full stack Dev, we're going to change the urban mobility!
+- 🛵 I’m currently working @Scuter as a full stack Dev, we're going to change the urban mobility!
 
-- 🌱 I’m currently learning the new NextJs 13
+- 📚 I’m currently learning the new NextJs 13
 
 - 📫 How to reach me: cristianoromaldetti@gmail.com
 
