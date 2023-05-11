@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 - 🛵 I’m currently working @Scuter as a full stack Dev, we're going to change the urban mobility!
 
-- 📚 I’m currently improving my skills on NextJs.13 (app directory) and FullStack development
+- 📚 I’m currently improving my skills on NextJs.13 (app directory) and Rust backend development
 
 - 📫 How to reach me: cristianoromaldetti@gmail.com
 
