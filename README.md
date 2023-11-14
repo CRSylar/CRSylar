@@ -14,13 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🛵 I’m currently working @Scuter as a full stack Dev, we're going to change the urban mobility!
+- 🛵 I’m currently working @Ko2 as a DevOps Dev.
 
-- 📚 I’m currently improving my skills on NextJs.13 (app directory) and Rust backend development
+- 📚 I’m currently improving my skills on NextJs.14 and Go backend development
 
 - 📫 How to reach me: cristianoromaldetti@gmail.com
 
-- 💻 Take a look at [My Portfolio](https://cristianos-portfolio.vercel.app) 
+- 💻 Take a look at [My Portfolio](https://cristianos-portfolio.vercel.app)
+
+- ⚡ Fun fact: There's more airplanes in the ocean than boats in the sky
 
 🎓 GitHub Stats :
 
