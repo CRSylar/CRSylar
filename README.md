@@ -20,8 +20,6 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me: cristianoromaldetti@gmail.com
 
-- 💻 Take a look at [My Portfolio](https://cristianos-portfolio.vercel.app)
-
 - ⚡ Fun fact: There's more airplanes in the ocean than boats in the sky
 
 🎓 GitHub Stats :
