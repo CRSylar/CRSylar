@@ -14,13 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🛵 I’m currently working @Ko2 as a DevOps Dev.
-
-- 📚 I’m currently improving my skills on React19 and Go backend development
+- 💼 I’m currently working @Ko2 as a DevOps Dev.
 
 - 📫 How to reach me: cristianoromaldetti@gmail.com
 
-- ⚡ Fun fact: There's more airplanes in the ocean than boats in the sky
 
 🎓 GitHub Stats :
 
